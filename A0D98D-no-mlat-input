@@ -1,0 +1,1046 @@
+now: 858.4   seen_pos: 0           mlat: []       lon:-122.219599   lat:37.715904
+now: 868.8   seen_pos: 0.4         mlat: []       lon:-122.219602   lat:37.715902
+now: 873.6   seen_pos: 0.1         mlat: []       lon:-122.219599   lat:37.715904
+now: 879.3   seen_pos: 0.6         mlat: []       lon:-122.219602   lat:37.715902
+now: 884.1   seen_pos: 0.6         mlat: []       lon:-122.219599   lat:37.715904
+now: 904.2   seen_pos: 0.6         mlat: []       lon:-122.219602   lat:37.715902
+now: 913.8   seen_pos: 0.3         mlat: []       lon:-122.219599   lat:37.715904
+now: 919.4   seen_pos: 0.7         mlat: []       lon:-122.219602   lat:37.715902
+now: 924.2   seen_pos: 0.5         mlat: []       lon:-122.219599   lat:37.715904
+
+
+
+
+
+*8ca0d98d381000936459324c4c95;
+CRC: 000000
+RSSI: -11.4 dBFS
+Time: 634272775463.17us
+DF:17 AA:A0D98D CA:4 ME:38100093645932
+ Extended Squitter Surface position (7)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Groundspeed:   0.0 kt
+  CPR type:      Surface
+  CPR odd flag:  even
+  CPR latitude:  (18866)
+  CPR longitude: (22834)
+  CPR decoding:  none
+  NACp:          8
+  SIL:           2 (p <= 0.001%, unknown type)
+
+*8ca0d98de1020000000000f51c2b;
+CRC: 000000
+RSSI: -13.8 dBFS
+Time: 634273495463.42us
+DF:17 AA:A0D98D CA:4 ME:E1020000000000
+ Extended Squitter Emergency/priority status (28/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Squawk:        2000
+  Emergency/priority:      no emergency
+
+*8ca0d98df900290288493091d537;
+CRC: 000000
+RSSI: -12.7 dBFS
+Time: 634273845461.25us
+DF:17 AA:A0D98D CA:4 ME:F9002902884930
+ Extended Squitter Aircraft operational status (surface) (31/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  NIC-A:         0
+  NIC-C:         0
+  NACp:          9
+  NACv:          1
+  SIL:           3 (p <= 0.00001%, per flight hour)
+  SDA:           2
+  Aircraft Operational Status:
+    Version:            2
+    Capability classes: L/W=9 GPS-OFFSET=136 
+    Operational modes:  
+    Track/heading:      Ground track
+    Heading ref dir:    True heading
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -13.3 dBFS
+Time: 634276213396.50us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*8ca0d98d381000936459324c4c95;
+CRC: 000000
+RSSI: -11.7 dBFS
+Time: 634277835482.75us
+DF:17 AA:A0D98D CA:4 ME:38100093645932
+ Extended Squitter Surface position (7)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Groundspeed:   0.0 kt
+  CPR type:      Surface
+  CPR odd flag:  even
+  CPR latitude:  (18866)
+  CPR longitude: (22834)
+  CPR decoding:  none
+
+*8ca0d98de1020000000000f51c2b;
+CRC: 000000
+RSSI: -13.5 dBFS
+Time: 634278475449.58us
+DF:17 AA:A0D98D CA:4 ME:E1020000000000
+ Extended Squitter Emergency/priority status (28/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Squawk:        2000
+  Emergency/priority:      no emergency
+
+*8ca0d98df900290288493091d537;
+CRC: 000000
+RSSI: -13.5 dBFS
+Time: 634278945455.58us
+DF:17 AA:A0D98D CA:4 ME:F9002902884930
+ Extended Squitter Aircraft operational status (surface) (31/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  NIC-A:         0
+  NIC-C:         0
+  NACp:          9
+  NACv:          1
+  SIL:           3 (p <= 0.00001%, per flight hour)
+  SDA:           2
+  Aircraft Operational Status:
+    Version:            2
+    Capability classes: L/W=9 GPS-OFFSET=136 
+    Operational modes:  
+    Track/heading:      Ground track
+    Heading ref dir:    True heading
+
+*8ca0d98d25184631e33de0380b06;
+CRC: 000000
+RSSI: -12.7 dBFS
+Time: 634279955444.67us
+DF:17 AA:A0D98D CA:4 ME:25184631E33DE0
+ Extended Squitter Aircraft identification and category (4)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Ident:         FDX1837 
+  Category:      A5
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -13.6 dBFS
+Time: 634280838042.58us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*8ca0d98d381006e645107db48f3f;
+CRC: 000000
+RSSI: -12.9 dBFS
+Time: 634283005437.42us
+DF:17 AA:A0D98D CA:4 ME:381006E645107D
+ Extended Squitter Surface position (7)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Groundspeed:   0.0 kt
+  CPR type:      Surface
+  CPR odd flag:  odd
+  CPR latitude:  37.71590 (95010)
+  CPR longitude: -122.21960 (69757)
+  CPR decoding:  global
+  NIC:           8
+  Rc:            0.186 km / 0.1 NM
+
+*8ca0d98df900290288493091d537;
+CRC: 000000
+RSSI: -12.7 dBFS
+Time: 634284055432.92us
+DF:17 AA:A0D98D CA:4 ME:F9002902884930
+ Extended Squitter Aircraft operational status (surface) (31/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  NIC-A:         0
+  NIC-C:         0
+  NACp:          9
+  NACv:          1
+  SIL:           3 (p <= 0.00001%, per flight hour)
+  SDA:           2
+  Aircraft Operational Status:
+    Version:            2
+    Capability classes: L/W=9 GPS-OFFSET=136 
+    Operational modes:  
+    Track/heading:      Ground track
+    Heading ref dir:    True heading
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -12.9 dBFS
+Time: 634285451697.33us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*8ca0d98d381000936459324c4c95;
+CRC: 000000
+RSSI: -11.6 dBFS
+Time: 634288075424.17us
+DF:17 AA:A0D98D CA:4 ME:38100093645932
+ Extended Squitter Surface position (7)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Groundspeed:   0.0 kt
+  CPR type:      Surface
+  CPR odd flag:  even
+  CPR latitude:  37.71590 (18866)
+  CPR longitude: -122.21960 (22834)
+  CPR decoding:  global
+  NIC:           8
+  Rc:            0.186 km / 0.1 NM
+
+*8ca0d98de1020000000000f51c2b;
+CRC: 000000
+RSSI: -13.2 dBFS
+Time: 634288595425.33us
+DF:17 AA:A0D98D CA:4 ME:E1020000000000
+ Extended Squitter Emergency/priority status (28/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Squawk:        2000
+  Emergency/priority:      no emergency
+
+*8ca0d98df900290288493091d537;
+CRC: 000000
+RSSI: -11.9 dBFS
+Time: 634288945425.42us
+DF:17 AA:A0D98D CA:4 ME:F9002902884930
+ Extended Squitter Aircraft operational status (surface) (31/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  NIC-A:         0
+  NIC-C:         0
+  NACp:          9
+  NACv:          1
+  SIL:           3 (p <= 0.00001%, per flight hour)
+  SDA:           2
+  Aircraft Operational Status:
+    Version:            2
+    Capability classes: L/W=9 GPS-OFFSET=136 
+    Operational modes:  
+    Track/heading:      Ground track
+    Heading ref dir:    True heading
+
+*8ca0d98d25184631e33de0380b06;
+CRC: 000000
+RSSI: -11.4 dBFS
+Time: 634290055436.92us
+DF:17 AA:A0D98D CA:4 ME:25184631E33DE0
+ Extended Squitter Aircraft identification and category (4)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Ident:         FDX1837 
+  Category:      A5
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -12.3 dBFS
+Time: 634290065351.75us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*8ca0d98d381006e645107db48f3f;
+CRC: 000000
+RSSI: -12.7 dBFS
+Time: 634293115409.92us
+DF:17 AA:A0D98D CA:4 ME:381006E645107D
+ Extended Squitter Surface position (7)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Groundspeed:   0.0 kt
+  CPR type:      Surface
+  CPR odd flag:  odd
+  CPR latitude:  37.71590 (95010)
+  CPR longitude: -122.21960 (69757)
+  CPR decoding:  global
+  NIC:           8
+  Rc:            0.186 km / 0.1 NM
+
+*8ca0d98de1020000000000f51c2b;
+CRC: 000000
+RSSI: -13.5 dBFS
+Time: 634293615409.83us
+DF:17 AA:A0D98D CA:4 ME:E1020000000000
+ Extended Squitter Emergency/priority status (28/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Squawk:        2000
+  Emergency/priority:      no emergency
+
+*8ca0d98df900290288493091d537;
+CRC: 000000
+RSSI: -12.1 dBFS
+Time: 634293805410.42us
+DF:17 AA:A0D98D CA:4 ME:F9002902884930
+ Extended Squitter Aircraft operational status (surface) (31/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  NIC-A:         0
+  NIC-C:         0
+  NACp:          9
+  NACv:          1
+  SIL:           3 (p <= 0.00001%, per flight hour)
+  SDA:           2
+  Aircraft Operational Status:
+    Version:            2
+    Capability classes: L/W=9 GPS-OFFSET=136 
+    Operational modes:  
+    Track/heading:      Ground track
+    Heading ref dir:    True heading
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -12.3 dBFS
+Time: 634294679006.42us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*8ca0d98d381000936459324c4c95;
+CRC: 000000
+RSSI: -12.0 dBFS
+Time: 634297935440.83us
+DF:17 AA:A0D98D CA:4 ME:38100093645932
+ Extended Squitter Surface position (7)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Groundspeed:   0.0 kt
+  CPR type:      Surface
+  CPR odd flag:  even
+  CPR latitude:  37.71590 (18866)
+  CPR longitude: -122.21960 (22834)
+  CPR decoding:  global
+  NIC:           8
+  Rc:            0.186 km / 0.1 NM
+
+*8ca0d98de1020000000000f51c2b;
+CRC: 000000
+RSSI: -15.3 dBFS
+Time: 634298655397.50us
+DF:17 AA:A0D98D CA:4 ME:E1020000000000
+ Extended Squitter Emergency/priority status (28/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Squawk:        2000
+  Emergency/priority:      no emergency
+
+*8ca0d98df900290288493091d537;
+CRC: 000000
+RSSI: -12.9 dBFS
+Time: 634298985418.58us
+DF:17 AA:A0D98D CA:4 ME:F9002902884930
+ Extended Squitter Aircraft operational status (surface) (31/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  NIC-A:         0
+  NIC-C:         0
+  NACp:          9
+  NACv:          1
+  SIL:           3 (p <= 0.00001%, per flight hour)
+  SDA:           2
+  Aircraft Operational Status:
+    Version:            2
+    Capability classes: L/W=9 GPS-OFFSET=136 
+    Operational modes:  
+    Track/heading:      Ground track
+    Heading ref dir:    True heading
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -13.5 dBFS
+Time: 634299292660.50us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*8ca0d98d25184631e33de0380b06;
+CRC: 000000
+RSSI: -12.9 dBFS
+Time: 634300215391.92us
+DF:17 AA:A0D98D CA:4 ME:25184631E33DE0
+ Extended Squitter Aircraft identification and category (4)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Ident:         FDX1837 
+  Category:      A5
+
+*8ca0d98d381000936459324c4c95;
+CRC: 000000
+RSSI: -11.7 dBFS
+Time: 634302935408.33us
+DF:17 AA:A0D98D CA:4 ME:38100093645932
+ Extended Squitter Surface position (7)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Groundspeed:   0.0 kt
+  CPR type:      Surface
+  CPR odd flag:  even
+  CPR latitude:  37.71590 (18866)
+  CPR longitude: -122.21960 (22834)
+  CPR decoding:  global
+  NIC:           8
+  Rc:            0.186 km / 0.1 NM
+
+*8ca0d98de1020000000000f51c2b;
+CRC: 000000
+RSSI: -13.5 dBFS
+Time: 634303615383.58us
+DF:17 AA:A0D98D CA:4 ME:E1020000000000
+ Extended Squitter Emergency/priority status (28/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Squawk:        2000
+  Emergency/priority:      no emergency
+
+*8ca0d98d381000936459324c4c95;
+CRC: 000000
+RSSI: -12.3 dBFS
+Time: 634307965382.42us
+DF:17 AA:A0D98D CA:4 ME:38100093645932
+ Extended Squitter Surface position (7)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Groundspeed:   0.0 kt
+  CPR type:      Surface
+  CPR odd flag:  even
+  CPR latitude:  37.71590 (18866)
+  CPR longitude: -122.21960 (22834)
+  CPR decoding:  global
+  NIC:           8
+  Rc:            0.186 km / 0.1 NM
+
+*8ca0d98df900290288493091d537;
+CRC: 000000
+RSSI: -13.3 dBFS
+Time: 634309205369.92us
+DF:17 AA:A0D98D CA:4 ME:F9002902884930
+ Extended Squitter Aircraft operational status (surface) (31/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  NIC-A:         0
+  NIC-C:         0
+  NACp:          9
+  NACv:          1
+  SIL:           3 (p <= 0.00001%, per flight hour)
+  SDA:           2
+  Aircraft Operational Status:
+    Version:            2
+    Capability classes: L/W=9 GPS-OFFSET=136 
+    Operational modes:  
+    Track/heading:      Ground track
+    Heading ref dir:    True heading
+
+*8ca0d98d25184631e33de0380b06;
+CRC: 000000
+RSSI: -11.9 dBFS
+Time: 634310305367.58us
+DF:17 AA:A0D98D CA:4 ME:25184631E33DE0
+ Extended Squitter Aircraft identification and category (4)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Ident:         FDX1837 
+  Category:      A5
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -14.0 dBFS
+Time: 634317736307.67us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -13.3 dBFS
+Time: 634317747274.92us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -14.0 dBFS
+Time: 634317747868.00us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*8ca0d98d381006e645107db48f3f;
+CRC: 000000
+RSSI: -12.7 dBFS
+Time: 634318025346.08us
+DF:17 AA:A0D98D CA:4 ME:381006E645107D
+ Extended Squitter Surface position (7)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Groundspeed:   0.0 kt
+  CPR type:      Surface
+  CPR odd flag:  odd
+  CPR latitude:  37.71590 (95010)
+  CPR longitude: -122.21960 (69757)
+  CPR decoding:  global
+  NIC:           8
+  Rc:            0.186 km / 0.1 NM
+
+*8ca0d98de1020000000000f51c2b;
+CRC: 000000
+RSSI: -14.7 dBFS
+Time: 634318835365.25us
+DF:17 AA:A0D98D CA:4 ME:E1020000000000
+ Extended Squitter Emergency/priority status (28/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Squawk:        2000
+  Emergency/priority:      no emergency
+
+*8ca0d98df900290288493091d537;
+CRC: 000000
+RSSI: -13.0 dBFS
+Time: 634319345342.08us
+DF:17 AA:A0D98D CA:4 ME:F9002902884930
+ Extended Squitter Aircraft operational status (surface) (31/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  NIC-A:         0
+  NIC-C:         0
+  NACp:          9
+  NACv:          1
+  SIL:           3 (p <= 0.00001%, per flight hour)
+  SDA:           2
+  Aircraft Operational Status:
+    Version:            2
+    Capability classes: L/W=9 GPS-OFFSET=136 
+    Operational modes:  
+    Track/heading:      Ground track
+    Heading ref dir:    True heading
+
+*8ca0d98d25184631e33de0380b06;
+CRC: 000000
+RSSI: -11.9 dBFS
+Time: 634320375337.00us
+DF:17 AA:A0D98D CA:4 ME:25184631E33DE0
+ Extended Squitter Aircraft identification and category (4)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Ident:         FDX1837 
+  Category:      A5
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -12.9 dBFS
+Time: 634322349961.17us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -12.7 dBFS
+Time: 634322350570.17us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -13.0 dBFS
+Time: 634322360928.58us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -12.7 dBFS
+Time: 634322361529.58us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -12.9 dBFS
+Time: 634322372880.58us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -12.6 dBFS
+Time: 634326963616.08us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -12.9 dBFS
+Time: 634326974583.33us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -13.3 dBFS
+Time: 634326975192.42us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -12.7 dBFS
+Time: 634326986535.33us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*8ca0d98d381000936459324c4c95;
+CRC: 000000
+RSSI: -12.4 dBFS
+Time: 634328035338.75us
+DF:17 AA:A0D98D CA:4 ME:38100093645932
+ Extended Squitter Surface position (7)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Groundspeed:   0.0 kt
+  CPR type:      Surface
+  CPR odd flag:  even
+  CPR latitude:  37.71590 (18866)
+  CPR longitude: -122.21960 (22834)
+  CPR decoding:  global
+  NIC:           8
+  Rc:            0.186 km / 0.1 NM
+
+*8ca0d98de1020000000000f51c2b;
+CRC: 000000
+RSSI: -13.3 dBFS
+Time: 634329115314.92us
+DF:17 AA:A0D98D CA:4 ME:E1020000000000
+ Extended Squitter Emergency/priority status (28/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Squawk:        2000
+  Emergency/priority:      no emergency
+
+*8ca0d98df900290288493091d537;
+CRC: 000000
+RSSI: -12.3 dBFS
+Time: 634329515340.58us
+DF:17 AA:A0D98D CA:4 ME:F9002902884930
+ Extended Squitter Aircraft operational status (surface) (31/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  NIC-A:         0
+  NIC-C:         0
+  NACp:          9
+  NACv:          1
+  SIL:           3 (p <= 0.00001%, per flight hour)
+  SDA:           2
+  Aircraft Operational Status:
+    Version:            2
+    Capability classes: L/W=9 GPS-OFFSET=136 
+    Operational modes:  
+    Track/heading:      Ground track
+    Heading ref dir:    True heading
+
+*8ca0d98d25184631e33de0380b06;
+CRC: 000000
+RSSI: -11.6 dBFS
+Time: 634330185341.08us
+DF:17 AA:A0D98D CA:4 ME:25184631E33DE0
+ Extended Squitter Aircraft identification and category (4)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Ident:         FDX1837 
+  Category:      A5
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -12.6 dBFS
+Time: 634331588838.42us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*8ca0d98d381006e645107db48f3f;
+CRC: 000000
+RSSI: -12.4 dBFS
+Time: 634333215303.08us
+DF:17 AA:A0D98D CA:4 ME:381006E645107D
+ Extended Squitter Surface position (7)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Groundspeed:   0.0 kt
+  CPR type:      Surface
+  CPR odd flag:  odd
+  CPR latitude:  37.71590 (95010)
+  CPR longitude: -122.21960 (69757)
+  CPR decoding:  global
+  NIC:           8
+  Rc:            0.186 km / 0.1 NM
+
+*8ca0d98de1020000000000f51c2b;
+CRC: 000000
+RSSI: -13.3 dBFS
+Time: 634334215302.00us
+DF:17 AA:A0D98D CA:4 ME:E1020000000000
+ Extended Squitter Emergency/priority status (28/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Squawk:        2000
+  Emergency/priority:      no emergency
+
+*8ca0d98df900290288493091d537;
+CRC: 000000
+RSSI: -11.6 dBFS
+Time: 634334685332.58us
+DF:17 AA:A0D98D CA:4 ME:F9002902884930
+ Extended Squitter Aircraft operational status (surface) (31/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  NIC-A:         0
+  NIC-C:         0
+  NACp:          9
+  NACv:          1
+  SIL:           3 (p <= 0.00001%, per flight hour)
+  SDA:           2
+  Aircraft Operational Status:
+    Version:            2
+    Capability classes: L/W=9 GPS-OFFSET=136 
+    Operational modes:  
+    Track/heading:      Ground track
+    Heading ref dir:    True heading
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -13.0 dBFS
+Time: 634336201916.50us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -13.3 dBFS
+Time: 634336202525.58us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -13.0 dBFS
+Time: 634336213843.83us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*8ca0d98d381000936459324c4c95;
+CRC: 000000
+RSSI: -11.7 dBFS
+Time: 634338235321.83us
+DF:17 AA:A0D98D CA:4 ME:38100093645932
+ Extended Squitter Surface position (7)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Groundspeed:   0.0 kt
+  CPR type:      Surface
+  CPR odd flag:  even
+  CPR latitude:  37.71590 (18866)
+  CPR longitude: -122.21960 (22834)
+  CPR decoding:  global
+  NIC:           8
+  Rc:            0.186 km / 0.1 NM
+
+*8ca0d98de1020000000000f51c2b;
+CRC: 000000
+RSSI: -12.4 dBFS
+Time: 634339295287.42us
+DF:17 AA:A0D98D CA:4 ME:E1020000000000
+ Extended Squitter Emergency/priority status (28/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Squawk:        2000
+  Emergency/priority:      no emergency
+
+*8ca0d98df900290288493091d537;
+CRC: 000000
+RSSI: -12.4 dBFS
+Time: 634339755310.58us
+DF:17 AA:A0D98D CA:4 ME:F9002902884930
+ Extended Squitter Aircraft operational status (surface) (31/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  NIC-A:         0
+  NIC-C:         0
+  NACp:          9
+  NACv:          1
+  SIL:           3 (p <= 0.00001%, per flight hour)
+  SDA:           2
+  Aircraft Operational Status:
+    Version:            2
+    Capability classes: L/W=9 GPS-OFFSET=136 
+    Operational modes:  
+    Track/heading:      Ground track
+    Heading ref dir:    True heading
+
+*8ca0d98d25184631e33de0380b06;
+CRC: 000000
+RSSI: -11.4 dBFS
+Time: 634340205283.42us
+DF:17 AA:A0D98D CA:4 ME:25184631E33DE0
+ Extended Squitter Aircraft identification and category (4)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Ident:         FDX1837 
+  Category:      A5
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -12.4 dBFS
+Time: 634340815568.75us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -12.7 dBFS
+Time: 634340827496.00us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*8ca0d98df900290288493091d537;
+CRC: 000000
+RSSI: -12.0 dBFS
+Time: 634344795270.67us
+DF:17 AA:A0D98D CA:4 ME:F9002902884930
+ Extended Squitter Aircraft operational status (surface) (31/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  NIC-A:         0
+  NIC-C:         0
+  NACp:          9
+  NACv:          1
+  SIL:           3 (p <= 0.00001%, per flight hour)
+  SDA:           2
+  Aircraft Operational Status:
+    Version:            2
+    Capability classes: L/W=9 GPS-OFFSET=136 
+    Operational modes:  
+    Track/heading:      Ground track
+    Heading ref dir:    True heading
+
+*8ca0d98d25184631e33de0380b06;
+CRC: 000000
+RSSI: -14.7 dBFS
+Time: 634350015261.92us
+DF:17 AA:A0D98D CA:4 ME:25184631E33DE0
+ Extended Squitter Aircraft identification and category (4)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Ident:         FDX1837 
+  Category:      A5
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -12.9 dBFS
+Time: 634350042878.50us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -13.5 dBFS
+Time: 634350043495.58us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -13.5 dBFS
+Time: 634350055422.92us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -13.2 dBFS
+Time: 634350065141.83us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -10.9 dBFS
+Time: 634354668458.33us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*8ca0d98df900290288493091d537;
+CRC: 000000
+RSSI: -10.9 dBFS
+Time: 634359645226.83us
+DF:17 AA:A0D98D CA:4 ME:F9002902884930
+ Extended Squitter Aircraft operational status (surface) (31/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  NIC-A:         0
+  NIC-C:         0
+  NACp:          9
+  NACv:          1
+  SIL:           3 (p <= 0.00001%, per flight hour)
+  SDA:           2
+  Aircraft Operational Status:
+    Version:            2
+    Capability classes: L/W=9 GPS-OFFSET=136 
+    Operational modes:  
+    Track/heading:      Ground track
+    Heading ref dir:    True heading
+
+*8ca0d98d381000936459324c4c95;
+CRC: 000000
+RSSI: -13.8 dBFS
+Time: 634363775216.08us
+DF:17 AA:A0D98D CA:4 ME:38100093645932
+ Extended Squitter Surface position (7)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Groundspeed:   0.0 kt
+  CPR type:      Surface
+  CPR odd flag:  even
+  CPR latitude:  37.71590 (18866)
+  CPR longitude: -122.21960 (22834)
+  CPR decoding:  global
+  NIC:           8
+  Rc:            0.186 km / 0.1 NM
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -13.3 dBFS
+Time: 634363896369.42us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*210000940c9caf;
+CRC: a0d98d
+RSSI: -13.6 dBFS
+Time: 634363906096.33us
+DF:4 addr:A0D98D FS:1 DR:0 UM:0 AC:148
+ Survelliance, Altitude Reply
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Baro altitude: -100 ft
+
+*8ca0d98de1020000000000f51c2b;
+CRC: 000000
+RSSI: -11.9 dBFS
+Time: 634364325214.08us
+DF:17 AA:A0D98D CA:4 ME:E1020000000000
+ Extended Squitter Emergency/priority status (28/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  Squawk:        2000
+  Emergency/priority:      no emergency
+
+*8ca0d98df900290288493091d537;
+CRC: 000000
+RSSI: -11.5 dBFS
+Time: 634364805211.67us
+DF:17 AA:A0D98D CA:4 ME:F9002902884930
+ Extended Squitter Aircraft operational status (surface) (31/1)
+  ICAO Address:  A0D98D (Mode S / ADS-B)
+  Air/Ground:    ground
+  NIC-A:         0
+  NIC-C:         0
+  NACp:          9
+  NACv:          1
+  SIL:           3 (p <= 0.00001%, per flight hour)
+  SDA:           2
+  Aircraft Operational Status:
+    Version:            2
+    Capability classes: L/W=9 GPS-OFFSET=136 
+    Operational modes:  
+    Track/heading:      Ground track
+    Heading ref dir:    True heading
+
